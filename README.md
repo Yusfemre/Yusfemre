@@ -1,7 +1,7 @@
 <h1 align="center">Selam, Ben Yusuf Emre! 👋</h1>
 
 <h3 align="center"> Teknoloji meraklısı bir Yönetim Bilişim Sistemleri öğrencisiyim.Şuanda Veri bilimi,Yapay Zeka, Mobil Uygulama,Web Tasarımı gibi alanlara
-ilgi duyuyorum</h3>
+ilgi duyuyorum kendimi geliştiriyorum </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yusfemre&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Yusfemre" />
