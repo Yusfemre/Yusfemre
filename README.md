@@ -1,6 +1,7 @@
 <h1 align="center">Selam, Ben Yusuf Emre! 👋</h1>
 
-<h3 align="center"> Teknoloji meraklısı bir Yönetim Bilişim Sistemleri öğrencisiyim.Şuanda Veri bilimi,Yapay Zeka, Mobil Uygulama,Web Tasarımı gibi alanlara
+<h3 align="center"> Teknoloji meraklısı bir Yönetim Bilişim Sistemleri öğrencisiyim.
+  Şuanda Veri bilimi,Yapay Zeka, Mobil Uygulama,Web Tasarımı gibi alanlara
 ilgi duyuyorum kendimi geliştiriyorum </h3>
 
 <p align="center">
