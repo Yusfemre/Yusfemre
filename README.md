@@ -8,8 +8,6 @@ ilgi duyuyorum kendimi geliştiriyorum </h3>
   <img src="https://komarev.com/ghpvc/?username=Yusfemre&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Yusfemre" />
 </p>
 
-### 🛠 Teknolojiler ve Araçlar
-
 ### 🛠️ Teknolojiler ve Araçlar
 
 #### 💻 Programlama Dilleri & Web
