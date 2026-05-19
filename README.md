@@ -36,8 +36,7 @@ ilgi duyuyorum kendimi geliştiriyorum </h3>
 Projelerim hakkında konuşmak, fikir alışverişinde bulunmak veya işbirliği yapmak isterseniz bana aşağıdaki platformlardan ulaşabilirsiniz:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-emre-gürel-7669b2292/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yusufemre4155@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufemre4155@gmail.com)
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
